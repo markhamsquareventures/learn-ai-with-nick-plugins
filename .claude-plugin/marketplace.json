@@ -8,7 +8,7 @@
       "name": "learn-ai-with-nick",
       "description": "Claude Code skills for daily productivity — newsletter digests, meeting action items, and daily scaffolding.",
       "version": "1.0.0",
-      "source": "."
+      "source": "./learn-ai-with-nick"
     }
   ]
 }
